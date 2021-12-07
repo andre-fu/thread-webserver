@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".env": "plaintext",
+        "ucontext.h": "c",
+        "thread": "c"
+    }
+}
